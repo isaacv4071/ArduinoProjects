@@ -1,4 +1,10 @@
 # CONFIGURACIÓN DE DISPOSITIVOS ELECTRÓNICOS
+## Autores
+- Isaac Arrieta Mercado
+- Yan Fran Arias Bohorquez 
+- Carlos de Jesus Arguelles Monterrosa
+- Jose Alejandro Gonzalez Ortiz
+
 ### **Control de un semáforo de tres vías**
 
 En la Figura 1 se muestra una intersección de tres vías. El tráfico en cada una de las vías es controlado por un semáforo de tres luces (verde, roja y amarilla) que está diagonal a la intersección de cada vía (o sea enfrente de la bocacalle). Para este sistema de luces existen ciertas condiciones que deben cumplirse:

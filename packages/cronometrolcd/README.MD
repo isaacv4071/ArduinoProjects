@@ -1,4 +1,11 @@
 # CONFIGURACIÓN DE DISPOSITIVOS ELECTRÓNICOS
+## Autores
+
+- Isaac Arrieta Mercado
+- Yan Fran Arias Bohorquez 
+- Carlos de Jesus Arguelles Monterrosa
+- Jose Alejandro Gonzalez Ortiz
+
 ### **Cronometro LCD + pulsadores**
 
 En la Figura 1 se muestra un cronómetro digital controlador con Arduino y visualización
