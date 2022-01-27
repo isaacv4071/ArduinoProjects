@@ -19,3 +19,7 @@ con display 16x2. Para este sistema existen ciertas condiciones que deben cumpli
 * Codigo fuente:
 
     [Link code Here](https://github.com/isaacv4071/ArduinoProjects/blob/main/packages/cronometrolcd/code/main.ino)
+
+* Link de la simulación:
+
+    [Link Simulation Here](https://www.tinkercad.com/things/eAGt0UWStpG)
