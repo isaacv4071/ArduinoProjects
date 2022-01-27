@@ -8,12 +8,12 @@ En este repositorio se encuentran desarrollados una serie de proyectos Arduino, 
   - [Cronometro_lcd](./packages/cronometrolcd)
     - [Codigo](./packages/cronometrolcd/code)
     - [Imagenes](./packages/cronometrolcd/images)
-    - [Documentacion](./packages/cronometrolcd/README)
+    - [Documentacion](./packages/cronometrolcd/README.MD)
   - [semaforo3vias](./packages/semaforo3vias)
     - [Codigo](./packages/semaforo3vias/code)
     - [Imagenes](./packages/semaforo3vias/images)
-    - [Documentacion](./packages/semaforo3vias/README)
+    - [Documentacion](./packages/semaforo3vias/README.MD)
 - [README.MD](./README.MD)
-- [LICENSE](./LICENSE)
+- [LICENSE](./LICENSE.MD)
 
 
