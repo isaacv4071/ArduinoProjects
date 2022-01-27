@@ -102,13 +102,13 @@ void cronometro(){
 }
 
 void pintarPantalla(){
-	lcd. setCursor(0, 0);
+    lcd. setCursor(0, 0);
     lcd.print("h");
     lcd. setCursor(3, 0);
     lcd.print("m");
     lcd. setCursor(6, 0);
     lcd.print("s");
     lcd. setCursor(9, 0);
-    lcd.print("ms");
+    lcd.print("ds");
 }
 
