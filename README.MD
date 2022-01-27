@@ -1,6 +1,6 @@
 # ARDUINO PROJECTS
 
-En este repositorio se encuentran desarrollados una serie de proyectos Arduino, los cuales están al alcance de cualquiera bajo la licencia [MIT](./LICENSE.md). No necesitas conocimientos previos de codificación, cableado o construcción de cosas.
+En este repositorio se encuentran desarrollados una serie de proyectos Arduino, los cuales están al alcance de cualquiera bajo la licencia [MIT](./LICENSE.MD). No necesitas conocimientos previos de codificación, cableado o construcción de cosas.
 
 ## Estructura de Archivos
 
