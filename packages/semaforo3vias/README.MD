@@ -24,3 +24,7 @@ En la Figura 1 se muestra una intersección de tres vías. El tráfico en cada u
 * Codigo fuente:
 
     [Link code Here](https://github.com/isaacv4071/ArduinoProjects/blob/main/packages/semaforo3vias/code/main.ino)
+
+* Link de la simulación:
+
+    [Link Simulation Here](https://www.tinkercad.com/things/6g6R8uzQU3D)
